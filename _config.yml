@@ -1,0 +1,22 @@
+# Site settings
+title: speckis blog
+email: speckij@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  speckis blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://specki.xyz" # the base hostname & protocol for your site
+keybase_username: speckij
+github_username:  speckij
+
+google_analytics:  UA-116705328-1 
+
+# Build settings
+markdown: kramdown
+
+paginate: 4
+
+author: Jan Speckamp
+exclude:
+- Gemfile
+- Gemfile.lock
+gems: [jekyll-paginate]

@@ -1,0 +1,26 @@
+<head>
+  <title>{{ site.title }}</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!--[if lte IE 8]><script src="{{ "js/ie/html5shiv.js" | prepend: site.baseurl }}"></script><![endif]-->
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | prepend: site.baseurl }}" /><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | prepend: site.baseurl }}" /><![endif]-->
+  <script type="text/javascript">
+    var gaProperty = {{ site.google_analytics }};
+    var disableStr = 'ga-disable-' + gaProperty;
+    if (document.cookie.indexOf(disableStr + '=true') > -1) {
+        window[disableStr] = true;
+    }
+    function gaOptout() {
+        document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC;
+        path=/';
+        window[disableStr] = true;
+        alert('Das Tracking durch Google Analytics wurde in Ihrem Browser für diese Website deaktiviert.');
+    }
+    </script>
+    
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+</head>

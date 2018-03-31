@@ -1,7 +1,7 @@
 ---
-layout: no-about-page
+layout: page
 title: About
-permalink: /about/
+permalink: /abuat/
 ---
 
 I am currently BSc. Student at ifgi in Münster. I like backend programming.

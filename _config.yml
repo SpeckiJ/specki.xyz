@@ -19,4 +19,5 @@ author: Jan Speckamp
 exclude:
 - Gemfile
 - Gemfile.lock
+- refresh_blog.sh
 gems: [jekyll-paginate]

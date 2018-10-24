@@ -13,6 +13,7 @@ Ich stelle hier gesammelte Übungsmaterialen der Veranstaltungen
  * [Informatik 2: Algorithmen und Datenstrukturen (SS16 Hinrichs)](https://uni-muenster.sciebo.de/s/wj3sHLujGGdDINE)
  * Analysis für Informatiker (WS1516 Serpe)
  * [Lineare Algebra für Informatiker (SS16 Serpe)](https://uni-muenster.sciebo.de/s/7juu0aeTElJ4lnW)
+ * [Software Engineering (WS16717 Müller-Olm)](https://uni-muenster.sciebo.de/s/Osh4V2P5NRCMVSc)
 
 zur Verfügung.
 

@@ -4,7 +4,7 @@ title: Impressum
 permalink: /imprint/
 ---
 
-<h1>Impressum</h1> <h2>Angaben gem&auml;&szlig; &sect; 5 TMG:</h2> <p>Jan Speckamp<br />
+<h2>Angaben gem&auml;&szlig; &sect; 5 TMG:</h2> <p>Jan Speckamp<br />
 Buscher Feld 22<br /> 42653 Solingen</p> <h2>Kontakt:</h2> <p>E-Mail: speckij@posteo.net</p> <h2>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV:</h2> <p>Jan
 Speckamp<br /> Buscher Feld 22<br /> 42653 Solingen</p> <h2>Haftung f&uuml;r Inhalte</h2> <p>Als
 Diensteanbieter sind wir gem&auml;&szlig; &sect; 7 Abs.1 TMG f&uuml;r eigene Inhalte auf diesen Seiten

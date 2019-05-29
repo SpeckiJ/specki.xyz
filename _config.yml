@@ -3,7 +3,7 @@ title_left    : "speckis blog"
 title_right   : ""
 description   : "a simple blog"
 keywords      : "programming"
-url           : specki.xyz # site url
+url           : # specki.xyz # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 

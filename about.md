@@ -4,23 +4,25 @@ title: About
 permalink: /about/
 ---
 
-I am currently BSc. Student at ifgi in Münster. I like backend programming. I dislike frontend programming.
-I am active on Github as [speckij](https://github.com/speckij/).
+I am currently MSc. Student at WWU Münster. I like backend programming. I dislike frontend programming.
+I am active on Github as [speckij](https://github.com/speckij/). 
 
 Skills:
- * Java (Working Level)
+ * Java[Spring, Spring Boot, Maven] (Working Level)
  * golang (Working Level)
  * Javascript/Typescript (Working Level)
  * C++ (Basic Level)
  * PHP (Basic Level)
 
 Work Experience:
- * Backend Development in Java @52North (04/2017 - present)
+ * Backend Development @52North (04/2017 - present)
+ * App Development [Ionic Framework] @52North (04/2017 - present)
  * IT Support and Technical Infrastructure Management @ifgi (03/2017 - 04/2019)
  * Student tutor for Geoinformatics (10/2016 - 04/2017)
  
  Projects:
   * Client for [Pixelflut](https://cccgoe.de/wiki/Pixelflut): [Hochwasser](https://github.com/SpeckiJ/Hochwasser)
+  * [CTF writeups](https://github.com/speckij/ctf)
   * User Interface for LDAP Credentials Management: [UserManager](https://github.com/SpeckiJ/UserManager)
   * Tool for Managing a Freshmens Weekend: [ErstiWeTool](https://github.com/fs-geofs/ErstiWeTool)
 
